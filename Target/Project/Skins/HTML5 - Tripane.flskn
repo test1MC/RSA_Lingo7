@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultSkin
-  Version="2"
+  Version="1"
   SkinType="WebHelp2"
   Comment="HTML5 Default Tripane skin"
   Anchors="Width,Height"
@@ -14,5 +14,7 @@
   DefaultTab="TOC"
   UseBrowserDefaultSize="True"
   UseDefaultBrowserSetup="True"
-  EnableResponsiveOutput="True">
+  EnableResponsiveOutput="True"
+  fileTags="File Tags/FileTagSetAuthor.Author1">
+  <Stylesheet />
 </CatapultSkin>
